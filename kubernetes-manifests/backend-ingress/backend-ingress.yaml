@@ -10,7 +10,7 @@ metadata:
 spec:
   ingressClassName: alb
   rules:
-    - host: pinaflo.co.uk
+    - host: www.pinaflo.co.uk
       http:
         paths:
           - path: /api
